@@ -1,0 +1,1 @@
+# Core resources shared across the X402 implementation between the client and server.
